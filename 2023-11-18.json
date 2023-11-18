@@ -1,0 +1,26 @@
+{
+  "name": "Owen Lopez",
+  "age": 32,
+  "address": {
+    "street": "Habi Lane",
+    "city": "Afoomre",
+    "state": "MN",
+    "zip": "29245"
+  },
+  "contact": {
+    "phone": "(812) 393-1120",
+    "servicePhone": "800689927"
+  },
+  "birthday": "1994-07-16T15:42:24.867Z",
+  "ip": "232.98.83.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Abjaogo luh ipilari werimnen rez wo izpi cafihe suremwad guhgo maw cah dotosda tivrodpo toh nacim ira. Lalocru piral lejok jein tej kelunne samezeto ketacet bunnuawa wi dac tuw hirokujod. Zaphicpe jun es lu tojegol ceten wi icuufosuh panfemupa si pacekiv wun. Biscul dujfejrid uwoguep efi fobu bize dansaes adzefiz udaome vekop usep pib zikofzer.",
+    "bio": "Cod ot mivze pijihbus decpo genmas gar wob wukok sadkidliw bem micet rir vi. Tiwwigul isuta lod fu efsop logu adnebu puzkapmu cu git siwozaj jusbav cu aj. Ji zilor po jahodota ga jatujefe sujuwo kavkotmod gi bacdejwoj toov upo ipcud le zubofo."
+  },
+  "apiKey": "092986f75b95d427ae09ad39b01dbd5dcf88c005a1f8bf2ea73cd1a8a3f039e7",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
