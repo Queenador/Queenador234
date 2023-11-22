@@ -1,0 +1,26 @@
+{
+  "name": "Ella Jacobs",
+  "age": 51,
+  "address": {
+    "street": "Fabjos Center",
+    "city": "Neesome",
+    "state": "WI",
+    "zip": "72262"
+  },
+  "contact": {
+    "phone": "(756) 324-5320",
+    "servicePhone": "800372548"
+  },
+  "birthday": "1982-06-25T23:55:47.736Z",
+  "ip": "60.156.186.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi cut lub cin wozatcun fod fu oza eheabasi alpej higced ana tabobfu hoube vi otizeofo. Ti celmehob tem ufaw hahiptav vep kifu efewi ecerikos tilez reccokav lenhek nip cinuh. Idbik was pavawan azozutip rukisru ca hozemar je tepel ni ohaju dojvi najum obibona udora kuwje ohizi jelrete.",
+    "bio": "Kagote cil burbed jechab nitna lusnivgek mamapci coco tazdi tiz pambo nen. Gefale fipmicla cocwulo gojun ro lorup em rot anremi delled da jumwihno. Seolrec sarec jeesu seunva uje lakuzran jiuk upujuw dizeviiba ki ba kes iw. Kufduodu on ejotip ohe ul ca fi tubwunuv al dalupa gempida da."
+  },
+  "apiKey": "87cbaf0a9b3fc341a5589788683d99a57406bcd23fef6828c42f0e60570ecf9f",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
