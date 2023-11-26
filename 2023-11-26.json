@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Cohen",
+  "age": 37,
+  "address": {
+    "street": "Onhi Grove",
+    "city": "Coclajji",
+    "state": "DE",
+    "zip": "48905"
+  },
+  "contact": {
+    "phone": "(938) 326-3772",
+    "servicePhone": "800486223"
+  },
+  "birthday": "1978-01-24T04:47:11.375Z",
+  "ip": "109.98.12.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Aru bureh ri fanew pe jud awna cebban ugirer adine za patukis polufu gok faspatwa esi. Vurruab bekmibe hoj cifza edici coponofok dovluvki ra dag ob mumvak gazus na kulma sijebwim fog ici tiofubug. Fukel roicibo bipuv lad ahegu tugse ruvcecok od gihve jaro kaok nacaha re.",
+    "bio": "Hu gizi rabev dowora set kevvovu kiti gidzo duz bekesre kuzufwom ki. Kah rirat ocdul bitini al kiowi ocodof an rokobod riv hi ledu gassivudu unacu ecida oldo uhpaofi. Runos ji nog ifuvi wodjiz obibofpe ileibe dezfetnab woloh wuhoal ciic gaaje. Raznavtu gejila soobagos fiucupe pub ag ahle gor wehdagafi nibci le cozoci. Hetgajwa udjuru ne neb pehafup munjivivu kahejfo lis faracul nifpo dausu kuv luvposlor podi nak tor. Duk fu evser uta dob dofa gasal gu jaogo vazafo iwoseboc duab siwub. Awi gazobum kozzif jefiiwe kemfosow pom va daefo ahe ne lu ommazheb sapmikto migto cob poc."
+  },
+  "apiKey": "d3f54c846168f6c3ecb66768b694fdbc9a199f17dcc8caedcb5da008acfdf214",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
