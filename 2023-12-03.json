@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Blake",
+  "age": 63,
+  "address": {
+    "street": "Awova Pike",
+    "city": "Viamobi",
+    "state": "KY",
+    "zip": "43235"
+  },
+  "contact": {
+    "phone": "(662) 216-2962",
+    "servicePhone": "800546271"
+  },
+  "birthday": "1994-12-02T03:11:19.800Z",
+  "ip": "142.186.192.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuc co fethim es urafira ihripi avoje rac mepe dujhicis semunajip upepalpi ru ivezo. Vil afinejcu geuvu peceku if omivej wehid puar mi apsegabo etwaepe hajlo. En ajkijli ijzibu ududepun fa me zufa jara za mos omojhu dac ma one jet dera toz bamituwak.",
+    "bio": "To tehego tuni osi toodpoz awli fi uti gerhaw lov we jaicemud jijitav wi iv wuvi wibgucu bameb. Go von kiwar luguzfo beno kotovajin kok sama fudas vutofa mohipde co. Taffakewe tumjuiw vuzom sufdet vo wunmo vo wiwbam kul tocbefoj ize su vu cep omuegioh zez. Wulkam kompuse vutja mi tu oj wa pib jejasja al ikubi tekwu goho be lerso dahagak jopow."
+  },
+  "apiKey": "2710c2ce8606771e3c201ce9cc0847d59f9ed8e267558f4b1027f21d17d05705",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
