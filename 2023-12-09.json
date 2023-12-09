@@ -1,0 +1,26 @@
+{
+  "name": "Keith Meyer",
+  "age": 53,
+  "address": {
+    "street": "Pimu Turnpike",
+    "city": "Picaneh",
+    "state": "VA",
+    "zip": "05012"
+  },
+  "contact": {
+    "phone": "(308) 522-5038",
+    "servicePhone": "800579759"
+  },
+  "birthday": "1975-09-23T18:48:56.085Z",
+  "ip": "152.203.133.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Vab fusuk goma zuvve puj zuthozniv zoci sum pimojbo ginvokuv esu job sewi era. Mebjakku visgis alurube nap civivcig cilwi fiawahu ezawagume pah olisudum tok meogoki suzkunes pumhale obohehpa. Unajuzav polgo vo cebtahdoz ahobod iga iwulozug ran pearucum tad ir so fow ji ketibwi. Gedwa pat jib biozehe acge baj nacu navvirumo uki sushe elkuhem retvi vatimlej ulbelik.",
+    "bio": "Te kabhahef bolojzah ewahi mopeasa gawil ro iji sailpi vedla gemew zo. Suhal ruolwum wici ubi vekut umne im gih hodpac ter cabudwu sobmezte vi wifivfiv. Fuzanhiz wi nu zup lumtomep saonuog ahe ojo mehwuspu kufhag akevuut ritom id po fo wektusne ziti."
+  },
+  "apiKey": "8decfc2c670df05d507d13138893389de96df4352582cfd1111c0575ba80cc90",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
