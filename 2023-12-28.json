@@ -1,0 +1,26 @@
+{
+  "name": "Jon Brady",
+  "age": 51,
+  "address": {
+    "street": "Hesi Lane",
+    "city": "Iparetve",
+    "state": "RI",
+    "zip": "73117"
+  },
+  "contact": {
+    "phone": "(441) 699-8132",
+    "servicePhone": "800946492"
+  },
+  "birthday": "1993-10-10T18:05:36.930Z",
+  "ip": "237.123.220.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuc zat gumenac hos vuima pif her tifajosir ho job wogri ra guberil iwi bahekav bo uskuow. Ujva duve joevi bu ro ca ce je ehga geherjir mugag vukavcol ibisjab. Me dej um kiihi ubu vuzin meszan waigeno wiw nomka nag cize gavo ofohala. Vo lu pazbu bevjub hefhufce lipozpuj sep mucob cerip gef num ezovusu tovufgev kifawel. Uljidaro uperaape mog zag icaure owupaw jamo rad hoseke nizmu ub gecunan awa te po zib.",
+    "bio": "Waswir toh ni cuzasim pu ef si zanicic sobah gu dif huge lamtejgah ser tet ja. Re nitzet litlacka nugape eta enoofudus vakivo tofcado bor cizove oz helo. Ko rucradeb owa mokwecja rodic amuriw jutok neis nelav mamucut of vogedji nub hushetze ome. Pu odti wicoruji kar demifak ekit modusig guwib lon voopiaz nibies ivbofcu terluiji faz dempiljof hizsip ojiva walof. Kizofmuk aca pe ubgaz denwuta owvu dejlir ameka levof bisi na oba ujlil dilih riluuwa."
+  },
+  "apiKey": "727e0c26d5bd2ff57f5596546abcd5105616275f9c54c25efe77249450f7cdbc",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
