@@ -1,0 +1,26 @@
+{
+  "name": "Harvey Rodriquez",
+  "age": 29,
+  "address": {
+    "street": "Tisluk Path",
+    "city": "Zigiwi",
+    "state": "AK",
+    "zip": "54812"
+  },
+  "contact": {
+    "phone": "(901) 541-6423",
+    "servicePhone": "800517399"
+  },
+  "birthday": "1999-02-09T11:26:02.953Z",
+  "ip": "211.41.197.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Giwriac tiv gojo ak powibi awabi can muha ar vu waideno buc wona pemura muz bulo gogbe rojuusu. Rih hilocud rogi zemma sa ub ketiwe zofmodudu imot goenu wezup tupogvoz to notnaz butzuseb kif eczurij. Ewawu ohbo nir facopzu taw baaw kafdu ota teruzi san polen zo ufa.",
+    "bio": "Iwfu uhbi vuiv jakmed vigze fup nuk copram fivboz zogjem kazda zeza lib. Ge pibca japan cazicful zoci uvdo nugod malpoj vih sol lur lezho cub tuc agigufidu. Cialse ijojosbi bej fo lam igvum pumiwvo go pu udta duju ej uwenta civuvafa iluvad ipineja fikneszew wafiaf. Uhopep iwko hawo vejalag pauc ow lirol biw mansihi osarar dukte gug lifuped jaciw."
+  },
+  "apiKey": "484a4e918a32f93790d73193ece0d7a6ca8bcb14a5a626965052871a34ee8ee1",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
