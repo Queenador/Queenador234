@@ -1,0 +1,26 @@
+{
+  "name": "Susan Young",
+  "age": 42,
+  "address": {
+    "street": "Suane Extension",
+    "city": "Dodivo",
+    "state": "TN",
+    "zip": "20571"
+  },
+  "contact": {
+    "phone": "(733) 592-6317",
+    "servicePhone": "800797689"
+  },
+  "birthday": "1979-06-14T05:56:38.401Z",
+  "ip": "78.166.200.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Lesifsu kic edelis dikufka bo wa ni mohi ukvirig kepgoj ca pe neflob ni jopitab. Lab tegvu ipjezeb bo selalho her zutug bodiod foeze omacamsom peg vomidi uzu nubompav bufgo dewuflef. Nu zuesiwa imede cimuwpa rewuza ica raag efuzilfa fi az dedo zajhado uhiza ujso wehobri vihvocoj.",
+    "bio": "Ame kuhzeha lizjicku evcenij jig mu rep jelzeh leku iwokitihe sazmat etael dasgeus neg zet pavzut reflueze wew. Fowzever tobnuru rapusa puca zacojvo pe baho danedal co hidapwel rawcaco dim. Nogza hobbefa igo fajehgo wobuwof ro ku zocopgi tajgihvo huru gizso puwudah serinis."
+  },
+  "apiKey": "43624ca7c257e05e9bffa882e24f368ed4cea82f9e2a681eb7a98cb4e9148d80",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
