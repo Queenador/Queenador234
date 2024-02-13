@@ -1,0 +1,26 @@
+{
+  "name": "Herman Page",
+  "age": 45,
+  "address": {
+    "street": "Ajogam Plaza",
+    "city": "Piutfi",
+    "state": "LA",
+    "zip": "75101"
+  },
+  "contact": {
+    "phone": "(380) 654-2662",
+    "servicePhone": "800789825"
+  },
+  "birthday": "1997-08-14T01:20:49.732Z",
+  "ip": "32.124.43.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovkiila ora fer saceba vefev gutef telli pas wutzo ahkaf juarli hibkap wah tuz. Ofa ledvi je moni necohoj sohpin veninvo lokhuz rezodu hoilu itegudib gorgesa talegono tanathuw cehgonmuz zoziju. Losop cipsawip abigel onzatse cabe evno kudi urdother vaca gibi kebidgod tezedfo can. Ipgulze fe sumguma em ewgujneb wuc inoheglom fiwuk mikwidhe lauw neorbab dodzihiv soc tit. Hotku laotji larfokli acuw ohaju hucboj fimuvpa ijva ewo tel usfu cegazoc vohlu owegih hum dotu.",
+    "bio": "Jejpov motakiki etge sed fil palim dutlodene da umaikbu epiejsa muat kiros ve. Widisoic enu bubvile ziksow oj mejhuz delvulje ut me osezces ujjageri ofezitrod. Sit jeggovziw huavi nuac zok himgod bewoes dijiw kag afacum lujrimul ti jusda vifgim rozubcaf faj."
+  },
+  "apiKey": "c78a324abcc6ac325c9f349199ca66a57e4914296de247959cdfce085b77745d",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
