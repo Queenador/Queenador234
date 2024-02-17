@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Goodman",
+  "age": 22,
+  "address": {
+    "street": "Bojaf Path",
+    "city": "Piswakdap",
+    "state": "CO",
+    "zip": "08097"
+  },
+  "contact": {
+    "phone": "(521) 570-5331",
+    "servicePhone": "800156754"
+  },
+  "birthday": "1994-06-11T02:57:32.273Z",
+  "ip": "230.204.15.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu jetnonjal gosno koahu bo ap zapowur nagovu itdedi sojij kozrij is bisacni kim de pito hecjotil. Pez isdijup ez hi figriji cebekegel ejeto ojli iv gazi te cohdib har nob dodidrad giluhep. Meg lohacviz cohovdac wooji funig ibdiuna ibuafpi adeje teja co lesmis puhhah du. Jogu meho um lum on gute rippij si pef wavrehnu defebfiw bejdewvep. Ke memahoh akagu ormug gupimza hule cepnodnu ro vejiv kuwgopi ucigowhi uvadido ebmuumi gebba diem azu. Temajir mo vofas viwakfi mavilo ze bepehi dingachoc ormi hek sadracmu docma poh futug zulzuckiz lotgeati pinebkil.",
+    "bio": "Woksuwoj nopail bu lomate tutudvuz luworgor rakwulwel le gebiv ri lukoeju bivrur mipokta. Kurweefe fo amipori wak zomfed raazu wugool kewwirdo teftehi va litbuasa boh. Degiliade hamo ca feroke rorzebew ku ofzuk udcaru wa seedowit robfilbih sat."
+  },
+  "apiKey": "31f03e7b6ebbd28797b1a31daf3242c76f36a0b1d867a9deabbd8504813001a8",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
