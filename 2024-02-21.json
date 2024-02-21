@@ -1,0 +1,26 @@
+{
+  "name": "Donald Manning",
+  "age": 65,
+  "address": {
+    "street": "Inoceb Trail",
+    "city": "Zoteva",
+    "state": "WY",
+    "zip": "16433"
+  },
+  "contact": {
+    "phone": "(555) 225-7676",
+    "servicePhone": "800416983"
+  },
+  "birthday": "2005-06-10T13:31:46.177Z",
+  "ip": "31.217.83.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Pok jeh lor liv tenfisu wo gedzelba zoelfe ma necurovuj kipu useza vokutgej mum. Abwe doskivfo usicif nanu rupdifan febodana gebukur wa fogafo ri elrigi ma gugad as. Pishi basaf vav tibegu powji na omadnem ribuwar ipfeip jowzucvu duta babufum cafitik erbu seru doewere wormicvej. Ta ijukagoku nojnehpep da uwocok ocmi ravebpow nowdofafe ju owlomup rivwaju owpiw geversuk jenide.",
+    "bio": "Seadbim cewennob hofraef uva dogvufjaz caeli ohra furgehe josbun baton tu ihobo awo hajdotviv. Fammo hojeme sojvuzhu bacap kuvaj fazar zumebanov aprufgof rur botoglip padobor zoig nuzluago tatew re ta ripov. Bavca kizgobo epneztul eskumiza walpide jub duz poudoha ekfo rah fomemole to utosam. Vil oci gomatej gahkedo seksum loikelu muwunlo faded hed cokiz fahdeze gahso suzzowag. Reni bofifu muufekez bosujil laj nufinuiro bimjoole ruwa vu wap maveta zedob."
+  },
+  "apiKey": "6eb1a4f5170a40b99cc9f65dcd78bbb2e29971431ca2733b658baca4aa4e72a3",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
