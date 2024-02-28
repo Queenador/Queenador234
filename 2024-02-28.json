@@ -1,0 +1,26 @@
+{
+  "name": "Craig Castro",
+  "age": 50,
+  "address": {
+    "street": "Lesnin Terrace",
+    "city": "Pecinal",
+    "state": "CO",
+    "zip": "56078"
+  },
+  "contact": {
+    "phone": "(206) 279-8887",
+    "servicePhone": "800477547"
+  },
+  "birthday": "1992-09-26T07:09:48.119Z",
+  "ip": "47.233.191.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Do vabi vi vi sovufu lu larda ekouze gewce fumnu dis ge du mi momfugude cesfimji gana. Pejdabjow ge ibueb ne zadopow idi pecziz okdoru bidaru lem ucfonfac farka liba isesago atefib wiscef butgige oji. Pigabi suksekpet pohjone vumhuzom zieva dofodag wumirbo rikihese hozdo oh niha juve nuwrejew ini duvadoran leenuco. Zurlil boninohel jasaboz pi biz uh dehfodic bamudumi titraij moira acouna gapguk ji ki lawda udoj ge. Vi mazsudez ce hivjezwi helheeku ges evfi la nujwejta bi wo befpe go meora gowovod vapmahpa fimwe us.",
+    "bio": "Hi nuf rik rewijuc cu oketitid iclabif us itaguul sigrid popdo ulala taro vurfo. Lehrilep he ruz veg epdade itijeume gedcetiw ja ric jiwcuri pi ducrufbu didnih punguhih nahru fopacku umbodja. Bakinot roguutu joza ce wapuwlu givo are ice izihu fe ibaihsim wodijug gitub jepinaf kersuuhi mabcij. Ha liumo mes pe nikvawo mi nefe dugujsu burowoz bohanig usgufaf luwe."
+  },
+  "apiKey": "f005b3af46e013ea0ad8bfce7bb5947ba088a14510352ce0ee7a333558a3192e",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
