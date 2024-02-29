@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Roy",
+  "age": 41,
+  "address": {
+    "street": "Zami Path",
+    "city": "Gekonvo",
+    "state": "KY",
+    "zip": "35141"
+  },
+  "contact": {
+    "phone": "(340) 437-8949",
+    "servicePhone": "800894667"
+  },
+  "birthday": "1983-06-26T02:19:35.852Z",
+  "ip": "75.200.117.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Foggo koclerpu nav idolo pienwol higo mu zo ham lehosna jaggi ni. Fed wujembus guhaz sigfos pipuczo duhifva deire tigzedzed de duzi jomathuz befa kuzelveg ebluvmok hewulmev zipagan suuro dugigmec. Guwupvu omegu fejsibrul zu karbizi fa as ikgor geado temda bikujo fi suco jac pi hejva. Adoje ta ba guliwero lup vadoha sufup uguse osa coh zec us puzur po madvofnuz.",
+    "bio": "Bavivgaf jetin liluwu tetibo rime nuwwag zefwug wi amde kecle bokvuro wip suentoz apoeglu fane iboubozah. Abpaj datrihos umo pegwo vohuctul nosju rufusig fowi erobezi kewemopud cece numofbos takocfip eni. Bivle memule inso laiz ojiizlec jive pal jispobro lozrah zefjon zewewaf rub si fi. Leksi puzobuw ih cuzarov sasisu wouja orebahuc ada wigel nidijop mejaf ek ramefgel zegebu caphof uhi jireli ca. Lev se ras posubep zirod tiketkel hez keeviwag zurneros miskoz bom osehef. Wavlo nojja gotewliz wiseka be lo tu guccag ipfe oj cerrofeb galhid in ugerom en."
+  },
+  "apiKey": "b4a76155d656fb921b1588df250b88b89afa0814a5fb8492284a3360f7d815e9",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
