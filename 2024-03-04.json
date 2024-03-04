@@ -1,0 +1,26 @@
+{
+  "name": "Kate Chapman",
+  "age": 20,
+  "address": {
+    "street": "Nonu Turnpike",
+    "city": "Zinerep",
+    "state": "NH",
+    "zip": "20256"
+  },
+  "contact": {
+    "phone": "(430) 940-5627",
+    "servicePhone": "800112875"
+  },
+  "birthday": "1974-07-01T23:10:19.711Z",
+  "ip": "147.222.133.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Erativic atjuwu meba rit otukati rilama anneoke sap wolva jifge me jez ov amjazke gid laur kumku. Faf jap anifir jomu nazwod imacu utohu jelu zizuw bivon iruwopwad no iwikowak gur sadeccab bat pav picec. Afvel wi nos abali wifuncum bonle odmunjoc kofuvabir jombu zopca famo pe dadeko etmehmog. Tife bid bopuuli ok mokaeh zeepob ahe wumdev bur moc ulfo ri.",
+    "bio": "Dad rouja mebtiej ud moloj var ge almivit ivowa ada ew faw ot vozhal ave peneni. Zaber jetaehu bolturaf gu ipku osveg lobdej cokawu ko heki da ciwzofuz ti ehi sob saka wawraluc. Tokobsiv gebon hesuh vedildo ublov mufzo ajuna azbur viw ohfu cebi sese wuzjur. Elno ugeen nuhi tenarkik ma javip miciw revzifoto cacig fa ci mi."
+  },
+  "apiKey": "52c2c74c394c27584b39347d955befdfe3ae51a23b5845f3e8a1154fec3a67c9",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
