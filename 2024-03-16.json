@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Parks",
+  "age": 22,
+  "address": {
+    "street": "Ecsu Terrace",
+    "city": "Osusuluc",
+    "state": "FL",
+    "zip": "01727"
+  },
+  "contact": {
+    "phone": "(681) 496-4002",
+    "servicePhone": "800224841"
+  },
+  "birthday": "1977-09-21T06:23:11.042Z",
+  "ip": "231.119.222.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Za jivse aloeh fodin hocjumaj fokdel alro goud uki pipuj ruscu vitara mut sagjiszow. Ni naajeowu zihotpo salcu uti ocweor rik tiserile wigucezi oka ezjafat sojah ur. Saz redijar arufu butemboh vur jinriis gavu watatov icebu mipub tunihehu mav fanub. Baf irsi facivpe jud hu cuvam pokub odibegdir nopnuek vev kiffaf ow sep kojama wizigo ot.",
+    "bio": "Mib ane ombil lid wez penak girmefjoc hajunpom gudwekew kojin ra mekbev jaz losoh ahzizig tuokikit ru. Buruz zufeg le za vami riple fuwma bovriprus jazapit nojturmi vov vicope ho bit vu ovdedpe dumeg. Bevetepuf poj bu mobuh geuna pa jiif rizasu co nasocuhe ciuluzu ra mi ovoni mimannaz. Afcevej ji zew cuhip owrapas vum eceolu fe vakucsu bi le bohbak jibra. Guze masmu ci wuzuvev upuwolje votduwas uzi rehiej fab foji obaja ucuwo fafhaho rez namsucfov huulut ma abenus."
+  },
+  "apiKey": "6d9e6cc35b10b1ef2a1d3f6a3d4dbce6ef2cd3f7ccedbfbc5bb9a9094ba7d064",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
