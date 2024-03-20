@@ -1,0 +1,26 @@
+{
+  "name": "Erik Patrick",
+  "age": 27,
+  "address": {
+    "street": "Owada Junction",
+    "city": "Dajoso",
+    "state": "HI",
+    "zip": "87823"
+  },
+  "contact": {
+    "phone": "(660) 576-3485",
+    "servicePhone": "800699147"
+  },
+  "birthday": "1977-05-19T06:32:38.382Z",
+  "ip": "141.123.94.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Mosu burwor fu koz aha jul hiha teg fev zavit sis gov hojor. Zej hiwitzi eheojecug ler ihu lat jezev le ivta man lug sij ecta uwecjed pigojen da hi. Zus awe akmorzan ow fefucu lu bo ar benezhuj terub kiovsip kubuc mopsigar terowi foval orzur imopud sud. Ri jela zo kud pekniceg beevuvit osuge ve uf cukuseevu wubcirfot voujeded gufihmu toj ub epij torlovbip. Ropug ujzudehi ronjig ufiroaj mu sab zakame cup hara efidga rekboon jedcechek rulum rijum cifmodma. Itrac lilun wa fa pafope sehge ziglawa tarpen mafeja de vamliro ca.",
+    "bio": "Rud lecje baf wespezu lizo lipaif zarozona baponfas nidkah mupoz taj pesiwisa sowiged atudadipe cucdu damob. Gej tup zarukpuv tor bul su miomju pib milohto jejamri wucbojhi teuhpob cuc wu gow femine wi mutagabu. Bikradcus op zigrat ze ne gozohnub cef okmih mohe ogusikap kabodi su eranej setgipeca kogsa dud ujetaw."
+  },
+  "apiKey": "5cf974678b2f85f0223c556889ee9decdc2659d38a3d8d41b2dc2e4d066f4fbe",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
